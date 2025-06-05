@@ -3,7 +3,7 @@ import time as t
 
 import cv2
 
-from current import process, sudoku
+from process_n_solve import process, sudoku
 from models import model_wrapper
 from preprocessing import preprocess
 
