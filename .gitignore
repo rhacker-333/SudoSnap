@@ -2,3 +2,4 @@ env/
 original/
 .*
 !.gitignore
+test_imgs/
